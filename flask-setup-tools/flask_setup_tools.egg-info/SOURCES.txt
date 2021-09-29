@@ -1,0 +1,7 @@
+setup.py
+flask_setup_tools.egg-info/PKG-INFO
+flask_setup_tools.egg-info/SOURCES.txt
+flask_setup_tools.egg-info/dependency_links.txt
+flask_setup_tools.egg-info/not-zip-safe
+flask_setup_tools.egg-info/requires.txt
+flask_setup_tools.egg-info/top_level.txt
